@@ -1,0 +1,102 @@
+<catalog>
+    <book id="bk101">
+        <author>Chinua Achebe</author>
+        <title>Todo se desmorona</title>  
+    </book>
+        <!--Comment1-->
+    <book id="bk102">
+        <!--Comment2-->
+        <author>Dante Alighieri</author>
+        <title>Cuentos infantiles</title>
+    </book>
+    <book id="bk103">
+        <!--Comment2-->
+        <author>Dante Alighieri</author>
+        <title>Divina Comedia</title>
+    </book>
+        <book id="bk104">
+        <!--Comment2-->
+        <author>Jane Austen</author>
+        <title>Orgullo y prejuicio</title>
+    </book>
+        <book id="bk105">
+        <!--Comment2-->
+        <author>Honoré de Balzac</author>
+        <title>Papá Goriot</title>
+    </book>
+        <book id="bk106">
+        <!--Comment2-->
+        <author>Giovanni Boccaccio</author>
+        <title>Decamerón</title>
+    </book>
+        <book id="bk107">
+        <!--Comment2-->
+        <author>Jorge Luis Borges</author>
+        <title>Ficciones</title>
+    </book>
+        <book id="bk108">
+        <!--Comment2-->
+        <author>Emily Brontë</author>
+        <title>Cumbres Borrascosas</title>
+    </book>
+        <book id="bk109">
+        <!--Comment2-->
+        <author>Albert Camus</author>
+        <title>El extranjero</title>
+    </book>
+        <book id="bk110">
+        <!--Comment2-->
+        <author>Paul Celan</author>
+        <title>Poemas</title>
+    </book>
+        <book id="bk111">
+        <author>Louis-Ferdinand Céline</author>
+        <title>Viaje al fin de la noche</title>  
+    </book>
+        <!--Comment1-->
+    <book id="bk112">
+        <!--Comment2-->
+        <author>Miguel de Cervantes</author>
+        <title>Don Quijote de la Mancha</title>
+    </book>
+    <book id="bk113">
+        <!--Comment2-->
+        <author>Geoffrey Chaucer</author>
+        <title>Los cuentos de Canterbury</title>
+    </book>
+        <book id="bk114">
+        <!--Comment2-->
+        <author>Joseph Conrad</author>
+        <title>Nostromo</title>
+    </book>
+        <book id="bk115">
+        <!--Comment2-->
+        <author>Charles Dickens</author>
+        <title>Grandes Esperanzas</title>
+    </book>
+        <book id="bk116">
+        <!--Comment2-->
+        <author>Franz Kafka</author>
+        <title>El castillo</title>
+    </book>
+        <book id="bk117">
+        <!--Comment2-->
+        <author>Yasunari Kawabata</author>
+        <title>El sonido de la montaña</title>
+    </book>
+        <book id="bk118">
+        <!--Comment2-->
+        <author>Astrid Lindgren</author>
+        <title>Pippi Calzaslargas</title>
+    </book>
+        <book id="bk119">
+        <!--Comment2-->
+        <author>Naguib Mahfuz</author>
+        <title>Hijos de nuestro barrio</title>
+    </book>
+        <book id="bk120">
+        <!--Comment2-->
+        <author>Thomas Mann</author>
+        <title>Los Buddenbrook</title>
+    </book>
+</catalog>
